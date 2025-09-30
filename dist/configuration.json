@@ -1,0 +1,16 @@
+{
+  "name": "Emissions Compliance",
+  "supportEmail": "103795228@student.swin.edu.au",
+  "version": "1.0.1",
+  "items": [
+    {
+      "url": "Emissions Compliance/emissionsCompliance.html",
+      "category": "SustainabilityId",
+      "menuName": {
+        "en": "Emissions Compliance"
+      },
+      "icon": "Emissions Compliance/images/icon.svg"
+    }
+  ],
+  "isSigned": false
+}
