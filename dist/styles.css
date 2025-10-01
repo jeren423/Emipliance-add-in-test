@@ -1,7 +1,11 @@
 .zenith-addin {
-    box-sizing: border-box;
-    height: 100%;
-    /* overflow: hidden; */
+  box-sizing: border-box;
+  height: 100%;
+  /* overflow: hidden; */
+}
+
+.zen-layout__content {
+  padding: 0px !important;
 }
 
 @font-face {
